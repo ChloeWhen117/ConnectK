@@ -1,9 +1,6 @@
-#User contribution by Chloe Nguyen:
-cPlusPlusSource/...
-AIShell.cpp
-AIShell.h
-Move.cpp
-Move.h
+#User contribution by Chloe Nguyen
+
+cPlusPlusSource/... AIShell.cpp, AIShell.h, Move.cpp, Move.h
 
 #ConnectK write-up written by [Toluwanimi Salako](https://github.com/tolusalako).
 #ConnectK
